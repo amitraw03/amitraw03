@@ -48,11 +48,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amitraw03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 📌 Featured Projects
-- 🚀 [Project 1] - Brief description
-- 💻 [Project 2] - Brief description
-- 🌟 [Project 3] - Brief description
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitraw03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
