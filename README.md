@@ -45,8 +45,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitraw03&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amitraw03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 🏆 Problem Solving Profiles
+
+<div align="center">
+
+### LeetCode Stats
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=rawatamit302003&theme=dark)](https://leetcode.com/u/rawatamit302003/)
+
+### Platform Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rawatamit302003/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rawatamirde6/)
+[![CodingNinjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/Rawatjii03)
+
+### Problem Solving Stats
+- 🏅 **LeetCode**: Solved 180+ Problems
+- 🎯 **GeeksForGeeks**: Solved 70+ Problems
+- ⭐ **CodingNinjas**: Institute Rank - Top 10%
+
+### Achievements
+- 🏆 Consistent problem solver with daily coding practice
+- 🌟 Specialized in Data Structures and Algorithms
+- 🎓 Strong foundation in competitive programming
+- 💡 Expertise in optimizing time and space complexity
+
+</div>
 
 ---
 <p align="center">
