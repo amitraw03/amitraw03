@@ -50,9 +50,6 @@
 
 <div align="center">
 
-### LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=rawatamit302003&theme=dark)](https://leetcode.com/u/rawatamit302003/)
-
 ### Platform Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rawatamit302003/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rawatamirde6/)
