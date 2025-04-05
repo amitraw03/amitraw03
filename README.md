@@ -56,7 +56,7 @@
 [![CodingNinjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/Rawatjii03)
 
 ### Problem Solving Stats
-- 🏅 **LeetCode**: Solved 180+ Problems
+- 🏅 **LeetCode**: Solved 200+ Problems
 - 🎯 **GeeksForGeeks**: Solved 70+ Problems
 - ⭐ **CodingNinjas**: Institute Rank - Top 10%
 
